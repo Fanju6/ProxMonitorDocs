@@ -10,7 +10,7 @@ hero:
       link: /guide/
     - theme: alt
       text: GitHub
-      link: https://github.com/Fanju6/ProxMonitor/
+      link: https://github.com/Fanju6/ProxMonitor
 
 features:
   - icon: 🖥️
